@@ -1,0 +1,8 @@
+D:\Projects\nxtPort\PublicSamplesGithub\NxtPort_PublicSamples_solution\NxtPort.Sample.Console.CallApiResourceOwnerFlow\bin\Debug\NxtPort.Sample.Console.CallApiResourceOwnerFlow.exe.config
+D:\Projects\nxtPort\PublicSamplesGithub\NxtPort_PublicSamples_solution\NxtPort.Sample.Console.CallApiResourceOwnerFlow\bin\Debug\NxtPort.Sample.Console.CallApiResourceOwnerFlow.exe
+D:\Projects\nxtPort\PublicSamplesGithub\NxtPort_PublicSamples_solution\NxtPort.Sample.Console.CallApiResourceOwnerFlow\bin\Debug\NxtPort.Sample.Console.CallApiResourceOwnerFlow.pdb
+D:\Projects\nxtPort\PublicSamplesGithub\NxtPort_PublicSamples_solution\NxtPort.Sample.Console.CallApiResourceOwnerFlow\bin\Debug\IdentityModel.dll
+D:\Projects\nxtPort\PublicSamplesGithub\NxtPort_PublicSamples_solution\NxtPort.Sample.Console.CallApiResourceOwnerFlow\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\nxtPort\PublicSamplesGithub\NxtPort_PublicSamples_solution\NxtPort.Sample.Console.CallApiResourceOwnerFlow\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\nxtPort\PublicSamplesGithub\NxtPort_PublicSamples_solution\NxtPort.Sample.Console.CallApiResourceOwnerFlow\obj\Debug\NxtPort.Sample.Console.CallApiResourceOwnerFlow.exe
+D:\Projects\nxtPort\PublicSamplesGithub\NxtPort_PublicSamples_solution\NxtPort.Sample.Console.CallApiResourceOwnerFlow\obj\Debug\NxtPort.Sample.Console.CallApiResourceOwnerFlow.pdb

@@ -1,4 +1,4 @@
-﻿namespace NxtPort.Sample.Winforms.CallApiImplicitFlow
+﻿namespace NxtPort.Sample.Console.CallApiResourceOwnerFlow
 {
     public static class Config
     {
