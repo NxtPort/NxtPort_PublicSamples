@@ -4,12 +4,13 @@ namespace NxtPort.Sample.Winforms.CallApiImplicitFlow
 {
     public static class Config
     {
+        //Replace with settings.
+
         //Urls
         public const String STSURL = "<REPLACE>";
         public const String APIURL = "<REPLACE>";
         
-        //You can find the values here on this link. 
-
+        //User
         public const String DEMOUSER_USERNAME = "<REPLACE>";
         public const String DEMOUSER_PASSWORD = "<REPLACE>";
 

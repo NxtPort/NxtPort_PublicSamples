@@ -55,7 +55,8 @@ namespace NxtPort.Sample.Winforms.CallApiImplicitFlow
                 _accessToken = dict["access_token"];
                 //We got accesstoken now. Browser session is not needed anymore.
                 webBrowser.Visible = false;
-                MessageBox.Show("We got an accesstoken, now you can call the API." + Environment.NewLine + Environment.NewLine + _accessToken);
+
+                MessageBox.Show(@"We got an accesstoken, now you can call the API." + Environment.NewLine + Environment.NewLine + _accessToken);
             }
         }
 
@@ -64,22 +65,32 @@ namespace NxtPort.Sample.Winforms.CallApiImplicitFlow
             try
             {
                 lbStatus.Text = @"Call in progress...";
+
                 //Create an http Client 
                 var client = new HttpClient();
+                
                 //Add the APIkey as Ocp-Apim-Subscription-Key header
                 client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", Config.APIKEY);
                 client.DefaultRequestHeaders.Add("Accept", "application/json");
+                
                 //Add the Accesstoken as Authorization header
                 client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _accessToken);
+                
                 //Call the Get operation.
                 var response = client.GetAsync(Config.APIURL + "/vgm/v1/info?bn=33314669&cn=gesu1070100").Result;
+                
                 //Ensure success
                 response.EnsureSuccessStatusCode();
+                
                 //read the result
-                var xml = response.Content.ReadAsStringAsync().Result;
+                var result = response.Content.ReadAsStringAsync().Result;
+                
                 //consume the result
-                tbResult.Text = xml;
+                tbResult.Text = result;
+
+                //Happy
                 lbStatus.Text = @"Done!";
+
             }
             catch (HttpRequestException exception)
             {
@@ -89,11 +100,6 @@ namespace NxtPort.Sample.Winforms.CallApiImplicitFlow
             {
                 tbResult.Text = exception.ToString();
             }
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
