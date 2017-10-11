@@ -4,6 +4,7 @@ namespace NxtPort.Sample.Winforms.CallApiImplicitFlow
 {
     public static class Config
     {
+        //Urls
         public const String STSURL = "<REPLACE>";
         public const String APIURL = "<REPLACE>";
         
