@@ -1,0 +1,9 @@
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\bin\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.exe.config
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\bin\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.exe
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\bin\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.pdb
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\obj\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.csprojResolveAssemblyReference.cache
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\obj\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.Properties.Resources.resources
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\obj\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.csproj.GenerateResource.Cache
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\obj\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.exe
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\obj\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.pdb
+D:\Projects\nxtPort\PublicSamples\NxtPort_PublicSamples_solution\NxtPort.Sample.Winforms.CallApiImplicitFlow\obj\Debug\NxtPort.Sample.Winforms.CallApiImplicitFlow.Form1.resources
