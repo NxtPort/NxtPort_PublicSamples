@@ -13,10 +13,10 @@ namespace NxtPort.Sample.Winforms.CallApiImplicitFlow
         public const String DEMOUSER_USERNAME = "<REPLACE>";
         public const String DEMOUSER_PASSWORD = "<REPLACE>";
 
-        
+        //ApiKey
         public const String APIKEY = "<REPLACE>";
 
-
+        //oAuth settings
         public const String CLIENTID = "<REPLACE>";
         public const String SCOPE = "<REPLACE>";
         public const String REDIRECTURI = "<REPLACE>";
