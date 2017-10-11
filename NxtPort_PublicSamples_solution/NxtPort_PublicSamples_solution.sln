@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C962DBE-5DC4-4650-B9A7-E26972701C81}"
-	ProjectSection(SolutionItems) = preProject
-		somefile.txt = somefile.txt
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxtPort.Sample.Winforms.CallApiImplicitFlow", "NxtPort.Sample.Winforms.CallApiImplicitFlow\NxtPort.Sample.Winforms.CallApiImplicitFlow.csproj", "{EFD36DEF-4FDC-475A-B010-02BB6043D50E}"
 EndProject
